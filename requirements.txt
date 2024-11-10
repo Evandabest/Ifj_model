@@ -1,3 +1,8 @@
 scikit-learn
 numpy
 matplotlib
+langchain_google_genai
+selenium
+undetected_chromedrive
+os
+dotenv
